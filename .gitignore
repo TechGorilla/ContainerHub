@@ -1,1 +1,4 @@
-/Dockerfile
+**/.gitignore
+**/Dockerfile.prod
+**/.dockerignore
+**/nginx.conf

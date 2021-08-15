@@ -1,5 +1,5 @@
 # ContainerHub
-Catalogue of different TESTED container builds. \
+Catalogue of different tested container builds. \
 Docker is used for the operations.
 
 ## Docker commands Cheatsheet (as of 2021)
