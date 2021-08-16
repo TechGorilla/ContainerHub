@@ -104,6 +104,7 @@ docker run -p [hostport]:80 [IMAGE]
 ```
 Go to a browser and the app should be running on: *localhost:[hostport]*.
 
+---
 
 ## DOTNET
 
@@ -145,6 +146,7 @@ docker run -p [hostport]:80 [IMAGE]
 ```
 The output should be displayed in the terminal.
 
+---
 
 ## JAVA
 
@@ -185,6 +187,7 @@ docker build -t [IMAGE] .
 docker run [IMAGE] [Maven_Goal]
 # ex: docker run [IMAGE] test
 ```
+---
 
 ## JAVASCRIPT
 
@@ -566,9 +569,13 @@ docker run -p [hostport]:80 [IMAGE]
 ```
 Go to a browser and the app should be running on: *localhost:[hostport]*.
 
+---
+
 ## PHP
 
 ### Laravel
+
+---
 
 ## PYTHON
 
@@ -612,4 +619,4 @@ docker run -p [hostport]:80 [IMAGE]
 ```
 Go to a browser and the app should be running on: *localhost:[hostport]*.
 
-
+---
