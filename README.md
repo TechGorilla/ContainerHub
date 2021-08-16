@@ -1,8 +1,8 @@
 # ContainerHub
 Catalogue of different tested container builds. \
-Docker is used for the operations.
+Docker is as the container runtime.
 
-## Docker commands Cheatsheet
+## Docker command Cheatsheet
 - [](#)
   - [](#)
     - [Images](#images)
