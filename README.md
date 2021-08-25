@@ -1,6 +1,6 @@
 # ContainerHub
 Catalogue of different tested container builds. \
-Docker is as the container runtime.
+Docker is used as the container runtime.
 
 ## Docker command Cheatsheet
 
